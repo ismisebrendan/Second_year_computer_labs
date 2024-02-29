@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 28 16:28:17 2023
 
-@author: wattersb
+@author: 
 """
 
 def ak(f, omega, n, K): # FUNCTION, NATURAL FREQUENCY, NUMBER OF STEPS, K STEPS
