@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 14 14:15:54 2023
 
-@author: wattersb
+@author: 
 """
 
 # f(V) = bV + cV^2
